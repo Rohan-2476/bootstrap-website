@@ -15,4 +15,4 @@ This is a practice website which enhances Semantic HTML tags and mainly Bootstra
 ~~ and a lot more if you wish to stretch your learn-goals.
 
 
-Note : Just a reference website to practice Bootstrap elements and many more.
+Note : Just a reference website to practice Bootstrap elements/properties and many more.
